@@ -1,4 +1,4 @@
--
+- [1507kaushik-kk](https://github.com/1507kaushik-kk) - My first open-source contribution!-
 [ompranavb-marker](https://github.com/ompranavb-maker) - My First Contribution To Open Source Contribution :>
 -[Dhruv Patil](https://github.com/Dhruv-2305)- Not first but surely a contribution to open source. Came here through web surfing.
 -[Viking](https://github.com/Dhruv-2305)-Again contributed to this open soure newbie repository.
@@ -20,6 +20,7 @@
 -Rishitha creates
 - [venkat Nani Bayanaboina](https://github.com/venkatbayanaboina)- my first contibution
 - [chuan0418-com](https://ch418.tw)
+- [Deep Patel](https://github.com/Deeppatel3522)
 - Subham Kumar
 - [t.x](https://github.com/dashboard
 - imame8 03/02/2026
@@ -8175,4 +8176,6 @@ Kunal Khallar - Learning to contribute :)
 -Laptop
 -Keyboard
 -Mouse
+- [dannihu] (https://dannihu01.github.io)
 - [mounnila](https://github.com/mounnilapoorna-lgtm)
+- [Ivan](https://github.com/uvana727-wq)
