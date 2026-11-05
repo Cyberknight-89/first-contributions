@@ -11,6 +11,8 @@
 - [Bilel Bouzaiane](https://github.com/bilelbouz)
 - [Kadri Abderazik](https://github.com/kadrirazik50-rgb) - Ma première contribution open source !
 - [Raunit Giri](https://github.com/rauni5) - First open source contribution.
+- [David_k_NAO](https://github.com/rauni5) - Junichi_NAO/cyberknight
+- 
 - Milo
 - Sanchit Sharma
 - Alexis
